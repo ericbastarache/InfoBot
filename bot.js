@@ -582,11 +582,11 @@ bot.on('ready', function () {
 			}
 		});
 	});
-	bot.channels.get('234490165438054400').sendMessage(updateMsg + version + '\n\nType !help to view my commands');
+	bot.channels.get('235879002227736588').sendMessage(updateMsg + version + '\n\nType !help to view my commands');
 });
 
 bot.on('disconnect', function () {
-	bot.channels.get('234490165438054400').sendMessage('Goodbye :frowning2:');
+	bot.channels.get('235879002227736588').sendMessage('Goodbye :frowning2:');
 })
 
 exports.addCommand = function (commandName, commandObject) {
