@@ -1,0 +1,12 @@
+{
+  "global": {
+    "eval": false,
+    "die": false
+  },
+  "users": {
+    "182243917322780673": {
+      "eval": true,
+      "die": true
+    }
+  }
+}
