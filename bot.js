@@ -574,7 +574,7 @@ bot.on('ready', function () {
 
 
 		var result = data.updateMessage;
-		result = "";
+		result = "{}";
 
 		fs.writeFile('./version.json', result, 'utf8', function (err) {
 			if(err) {
