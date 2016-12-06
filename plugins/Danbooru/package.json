@@ -1,0 +1,6 @@
+{
+	"main" : "danbooru.js",
+	"dependencies" : {
+		"danbooru": "^1.4.8"
+	}
+}

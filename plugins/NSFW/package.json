@@ -1,0 +1,6 @@
+{
+	"main" : "nsfw.js",
+	"dependencies" : {
+		"xml2js" : "^0.4.17"
+	}
+}

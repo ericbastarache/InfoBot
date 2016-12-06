@@ -1,0 +1,6 @@
+{
+	"main": "youtube.js",
+	"dependencies" : {
+		"youtube-node" : "^1.3.0"
+	}
+}

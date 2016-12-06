@@ -1,0 +1,6 @@
+{
+	"main" : "insults.js",
+	"dependencies" : {
+		"request": "^2.75.0"
+	}
+}

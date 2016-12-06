@@ -1,0 +1,6 @@
+{
+	"main" : "cleverbot.js",
+	"dependencies" : {
+		"cleverbot.io": "^1.0.4"
+	}
+}

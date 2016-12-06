@@ -1,0 +1,6 @@
+{
+	"main" : "meme.js",
+	"dependencies" : {
+		"request" : "^2.75.0"
+	}
+}

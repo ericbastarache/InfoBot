@@ -1,0 +1,6 @@
+{
+	"main": "giphy.js",
+	"dependencies" : {
+		"giphy-api": "^1.2.1"
+	}
+}

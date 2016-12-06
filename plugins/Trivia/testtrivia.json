@@ -1,0 +1,276 @@
+{
+	"leagueQuestions" : {
+		"questions" : [
+			{
+				"id" : "1",
+				"question" : "This champion carries two daggers on them at all times. What is their name?",
+				"hint" : "S---o",
+				"answer" : "Shaco"
+			},
+			{
+				"id" : "2",
+				"question" : "Whose champions ability can be said like a pirate?",
+				"hint" : "---gp--n-",
+				"answer" : "Gangplank"
+			},
+			{
+				"id" : "3",
+				"question" : "What champion is an anagram of chaos?",
+				"hint" : "h o s a c",
+				"answer" : "Shaco"
+			},
+			{
+				"id" : "4",
+				"question" : "What was Nasus' original name during development?",
+				"hint" : "A-m--",
+				"answer" : "Ammon"
+			},
+			{
+				"id" : "5",
+				"question" : "Whose blade resembles the Soul Reaver's from Legacy of Kain?",
+				"hint" : "-a--o-",
+				"answer" : "Aatrox"
+			},
+			{
+				"id" : "6",
+				"question" : "What champions dance references Single Ladies by Beyonce",
+				"hint" : "-ka--",
+				"answer" : "Akali"
+			},
+			{
+				"id" : "7",
+				"question" : "The hidden passive for which champion and mythical creature drops a soul?",
+				"hint" : "--n-",
+				"answer" : "Nunu"
+			},
+			{
+				"id" : "8",
+				"question" : "Who was the first fire-themed champion?",
+				"hint" : "--n-e",
+				"answer" : "Annie"
+			},
+			{
+				"id" : "9",
+				"question" : "Who is the first non-ninja Ionian champion to use energy?",
+				"hint" : "--e -i-",
+				"answer" : "Lee Sin"
+			},
+			{
+				"id" : "10",
+				"question" : "What champion is an anagram of I am oak?",
+				"hint" : "a a i o m k",
+				"answer" : "Maokai"
+			},
+			{
+				"id" : "11",
+				"question" : "Who is this champion, voiced by Gavin Hammon who also voices Pantheon and Blood Lord Vladimir?",
+				"hint" : "--r--",
+				"answer" : "Varus"
+			},
+			{
+				"id" : "12",
+				"question" : "What champions dance references the dance from the Jailhouse Rock music video?",
+				"hint" : "-an--o-",
+				"answer" : "Pantheon"
+			},
+			{
+				"id" : "13",
+				"question" : "Which champions hidden passive makes enemy champions take 1 less damage from it if they are wearing sunglasses?",
+				"hint" : "---n-",
+				"answer" : "Leona"
+			},
+			{
+				"id" : "14",
+				"question" : "Which champions ability resembles Final Flash by Vegeta from Dragon Ball Z?",
+				"hint" : "---",
+				"answer" : "Lux"
+			},
+			{
+				"id" : "15",
+				"question" : "Ajuna was assumed to be which champion?",
+				"hint" : "--rea-",
+				"answer" : "Ezreal"
+			},
+			{
+				"id" : "16",
+				"question" : "Which champions weapon (Chalicar) was inspired by the Chakram?",
+				"hint" : "s--i-",
+				"answer" : "Sivir"
+			},
+			{
+				"id" : "17",
+				"question" : "Which champion was the first to be fully relaunched?",
+				"hint" : "--r-a",
+				"answer" : "Karma"
+			},
+			{
+				"id" : "18",
+				"question" : "This champions dance references U Can't Touch This by MC Hammer",
+				"hint" : "-a--e",
+				"answer" : "Jayce"
+			},
+			{
+				"id" : "19",
+				"question" : "This champion is the first female Voidborn in the game",
+				"hint" : "-e-'s--",
+				"answer" : "Rek'Sai"
+			},
+			{
+				"id" : "20",
+				"question" : "This champion has the only ability in the game that deals physical damage but has no AD ratio",
+				"hint" : "M----i--",
+				"answer" : "Malphite"
+			},
+			{
+				"id" : "21",
+				"question" : "Which champion has the fifth highest Level 18 Base Attack Damage at 133?",
+				"hint" : "S--r--r",
+				"answer" : "Skarner"
+			},
+			{
+				"id" : "22",
+				"question" : "Which champions dance references Cha-cha-cha?",
+				"hint" : "--r-",
+				"answer" : "Zyra"
+			},
+			{
+				"id" : "23",
+				"question" : "This skin is the first Champion skin ever to feature a voiceover change",
+				"hint" : "-en--e--n   --o'--t-",
+				"answer" : "Gentleman Cho'Gath"
+			},
+			{
+				"id" : "24",
+				"question" : "This skin was inspired by club fighters during the Prohibition",
+				"hint" : "K--c-o--   -e- s--",
+				"answer" : "Knockout Lee Sin"
+			},
+			{
+				"id" : "25",
+				"question" : "This base skin might reference the Ents from The Lord of the Rings",
+				"hint" : "C--s-i-   -a--a-",
+				"answer" : "Classic Maokai"
+			},
+			{
+				"id" : "26",
+				"question" : "This skin is a reference to Perseus from the Greek Mythology",
+				"hint" : "P--c--s   -a-th---",
+				"answer" : "Perseus Pantheon"
+			},
+			{
+				"id" : "27",
+				"question" : "This champions outfit is based off the Locket of the Iron Solari",
+				"hint" : "--o-   --la-i -eo--",
+				"answer" : "Iron Solari Leona"
+			},
+			{
+				"id" : "28",
+				"question" : "This champions outfit resembles Forn Dodonna from Star Wars: Knights of the Old Republic",
+				"hint" : "-mp--r---   -u-",
+				"answer" : "Imperial Lux"
+			},
+			{
+				"id" : "29",
+				"question" : "This skin references Wonder Woman by DC Comics",
+				"hint" : "S-e---l-r   --v--",
+				"answer" : "Spectacular Sivir"
+			},
+			{
+				"id" : "30",
+				"question" : "This was the very first of its kind. He also resembles Blade Wolf from Metal Gear Rising: Revengeance",
+				"hint" : "-a--l--as-  -l-ha  -k--n--",
+				"answer" : "Battlecast Alpha Skarner"
+			},
+			{
+				"id" : "31",
+				"question" : "This champions dance reference the titular character from House in turn dancing to Fight the Power by Public Enemy",
+				"hint" : "--  --n--",
+				"answer" : "Dr Mundo"
+			},
+			{
+				"id" : "32",
+				"question" : "This champions difficulty rating is 10, one of five others whose difficulty is also 10",
+				"hint" : "--el--n",
+				"answer" : "Evelynn"
+			},
+			{
+				"id" : "33",
+				"question" : "This champions backstory is similar to the book Slaughterhouse-Five by Kurt Vonnegut, Junior",
+				"hint" : "--l-a-",
+				"answer" : "Zilean"
+			},
+			{
+				"id" : "34",
+				"question" : "Uses the first item to feature multiple names and icons",
+				"hint" : "--ng--",
+				"answer" : "Rengar"
+			},
+			{
+				"id" : "35",
+				"question" : "He is one of a handful of champions that can theoretically infinitely scale",
+				"hint" : "-a--",
+				"answer" : "Bard"
+			},
+			{
+				"id" : "36",
+				"question" : "His dance references 'Dope Zebra' by 'rhettandlink'",
+				"hint" : "-e-a---",
+				"answer" : "Hecarim"
+			},
+			{
+				"id" : "37",
+				"question" : "His name might come from the Hebrew word 'זֵד' which means Scoundrel, Villain in English",
+				"hint" : "---",
+				"answer" : "Zed"
+			},
+			{
+				"id" : "38",
+				"question" : "This champions name means 'ones family and relations'",
+				"hint" : "-in--e-",
+				"answer" : "Kindred"
+			},
+			{
+				"id" : "39",
+				"question" : "He flies a ROFL copter, named after the ROFLcopter meme",
+				"hint" : "-o---",
+				"answer" : "Corki"
+			},
+			{
+				"id" : "40",
+				"question" : "Was in development for three years and eventually had to be pushed back due to his skillset needing to be reworked",
+				"hint" : "---r",
+				"answer" : "Azir"
+			},
+			{
+				"id" : " 41",
+				"question" : "His first title was 'The Cask Master' but was changed to avoid confusion with 'The Card Master'",
+				"hint" : "--a---",
+				"answer" : "Gragas"
+			},
+			{
+				"id" : "42",
+				"question" : "Was originally going to be naed 'Romlariel' (after Trevor 'Classick' Romleski's last name",
+				"hint" : "--m-",
+				"answer" : "Nami"
+			},
+			{
+				"id" : "43",
+				"question" : "Her favorite flavor of ice cream is rocky road",
+				"hint" : "--li--h",
+				"answer" : "Taliyah"
+			},
+			{
+				"id" : "44",
+				"question" : "Was the last champion released in 2010 as well as the third one to feature an 'Art Spotlight'",
+				"hint" : "--ss---e--",
+				"answer" : "Cassiopeia"
+			},
+			{
+				"id" : "45",
+				"question" : "His previous name was 'The Dark Champion' but he has been called 'The Barbarian King' ever since the second official trailer",
+				"hint" : "-r---a-e-e",
+				"answer" : "Tryndamere"
+			}
+		]
+	}
+}

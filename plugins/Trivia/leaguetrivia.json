@@ -1,0 +1,114 @@
+{
+	"leagueQuestions": {
+		"champions": {
+			"questions": {
+				"q1": "This champion carries two daggers on them at all times. What is their name?",
+				"q2": "Whose champions ability can be said like a pirate?",
+				"q3": "What champion is an anagram of chaos?",
+				"q4": "What was Nasus' original name during development?",
+				"q5": "Whose blade resembles the Soul Reaver's from Legacy of Kain?",
+				"q6": "What champions dance references Single Ladies by Beyonce",
+				"q7": "The hidden passive for which champion and mythical creature drops a soul?",
+				"q8": "Who was the first fire-themed champion?",
+				"q9": "Who is the first non-ninja Ionian champion to use energy?",
+				"q10": "What champion is an anagram of I am oak?",
+				"q11": "Who is this champion, voiced by Gavin Hammon who also voices Pantheon and Blood Lord Vladimir?",
+				"q12": "What champions dance references the dance from the Jailhouse Rock music video?",
+				"q13": "Which champions hidden passive makes enemy champions take 1 less damage from it if they are wearing sunglasses?",
+				"q14": "Which champions ability resembles Final Flash by Vegeta from Dragon Ball Z?",
+				"q15": "Ajuna was assumed to be which champion?",
+				"q16": "Which champions weapon (Chalicar) was inspired by the Chakram?",
+				"q17": "Which champion was the first to be fully relaunched?",
+				"q18": "This champions dance references U Can't Touch This by MC Hammer",
+				"q19": "This champion is the first female Voidborn in the game",
+				"q20": "This champion has the only ability in the game that deals physical damage but has no AD ratio",
+				"q21": "Which champion has the fifth highest Level 18 Base Attack Damage at 133?",
+				"q22" : "Which champions dance references Cha-cha-cha?"
+
+			},
+			"hints": {
+				"h1": "S---o",
+				"h2": "---gp--n-",
+				"h3": "h o s a c",
+				"h4": "A-m--",
+				"h5": "-a--o-",
+				"h6": "-ka--",
+				"h7": "--n-",
+				"h8": "--n-e",
+				"h9": "--e -i-",
+				"h10": "a a i o m k",
+				"h11": "--r--",
+				"h12": "-an--o-",
+				"h13": "---n-",
+				"h14": "L--",
+				"h15": "--rea-",
+				"h16": "s--i-",
+				"h17": "--r-a",
+				"h18": "-a--e",
+				"h19": "-e-'s--",
+				"h20": "M----i--",
+				"h21": "S--r--r",
+				"h22" : "--r-"
+
+			},
+			"answers": {
+				"a1": "Shaco",
+				"a2": "Gangplank",
+				"a3": "Shaco",
+				"a4": "Ammon",
+				"a5": "Aatrox",
+				"a6": "Akali",
+				"a7": "Nunu",
+				"a8": "Annie",
+				"a9": "Lee Sin",
+				"a10": "Maokai",
+				"a11": "Varus",
+				"a12": "Pantheon",
+				"a13": "Leona",
+				"a14": "Lux",
+				"a15": "Ezreal",
+				"a16": "Sivir",
+				"a17": "Karma",
+				"a18": "Jayce",
+				"a19": "Rek'Sai",
+				"a20": "Malphite",
+				"a21": "Skarner",
+				"a22" : "Zyra"
+			}
+		},
+		"skins": {
+			"questions": {
+				"q1": "This skin is the first Champion skin ever to feature a voiceover change?",
+				"q2": "This skin was inspired by club fighters during the Prohibition?",
+				"q3": "This base skin might reference the Ents from The Lord of the Rings?",
+				"q4": "This skin is a reference to Perseus from the Greek Mythology?",
+				"q5": "This champions outfit is based off the Locket of the Iron Solari?",
+				"q6": "This champions outfit resembles Forn Dodonna from Star Wars: Knights of the Old Republic?",
+				"q7": "This skin references Wonder Woman by DC Comics",
+				"q8": "This was the very first of its kind. He also resembles Blade Wolf from Metal Gear Rising: Revengeance"
+
+			},
+			"hints": {
+				"h1": "-en--e--n   --o'--t-",
+				"h2": "K--c-o--   -e- s--",
+				"h3": "C--s-i-   -a--a-",
+				"h4": "P--c--s   -a-th---",
+				"h5": "--o-   --la-i -eo--",
+				"h6": "-mp--r---   -u-",
+				"h7": "S-e---l-r   --v--",
+				"h8": "-a--l--as-  -l-ha  -k--n--"
+
+			},
+			"answers": {
+				"a1": "Gentleman Cho'Gath",
+				"a2": "Knockout Lee Sin",
+				"a3": "Classic Maokai",
+				"a4": "Perseus Pantheon",
+				"a5": "Iron Solari Leona",
+				"a6": "Imperial Lux",
+				"a7": "Spectacular Sivir",
+				"a8": "Battlecast Alpha Skarner"
+			}
+		}
+	}
+}
