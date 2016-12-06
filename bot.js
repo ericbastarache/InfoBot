@@ -141,7 +141,7 @@ try {
 
 }
 
-//Load Danbooru plugin
+//Load Danbooru plugin (if not loaded, will initiate installation move)
 try {
 
 	var danbooru = require('./plugins/Danbooru/danbooru');
@@ -152,7 +152,7 @@ try {
 	console.log('Couldn\'t load the danbooru plugin');
 }
 
-//Load NSFW plugin 
+//Load NSFW plugin
 try {
 
 	var nsfw = require('./plugins/NSFW/nsfw');
@@ -257,7 +257,7 @@ Permissions.checkPermission = function (user, permission) {
 			if (Permissions.global.hasOwnProperty(permission)) {
 			allowed = Permissions.global[permission] === true;
 		}
-		
+
 		} catch (e) {}
 
 		try {
@@ -318,7 +318,7 @@ var commands = {
 		}
 	},
 	"urban" : {
-		usage: "<query>", 
+		usage: "<query>",
 		description: "Returns an urban dictionary definition based on your search query",
 		process: function (bot, message, suffix) {
 			Urban.define(suffix, message.channel, bot);
@@ -396,7 +396,7 @@ var commands = {
 					process.on('SIGTERM', app.close());
 					process.exit(1);
 				}, 300);
-				
+
 			} else {
 				message.channel.sendMessage("You do not have permissions to execute that command, " + message.author);
 			}
@@ -441,7 +441,7 @@ var commands = {
 
 
 function checkForCommand (message, isEdit) {
-	
+
 	if (message.author.id != bot.user.id && (message.content[0] === Config.commandPrefix)) {
 		var cmdText = message.content.split(' ')[0].substring(1);
 		var suffix = message.content.substring(cmdText.length+2);
@@ -551,7 +551,7 @@ function checkForCommand (message, isEdit) {
 //When a message is sent, check to see if there's a command
 bot.on('message', (message) => checkForCommand(message, false));
 bot.on('messageUpdate', (oldMessage, newMessage) => {
-	
+
 	checkForCommand(newMessage, true);
 });
 
@@ -563,7 +563,7 @@ bot.on('ready', function () {
 	var updateMsg = v.updateMessage;
 	bot.user.setStatus("online", "Version "+version);
 
-	
+
 	//bot.channels.get('235879002227736588').sendMessage(updateMsg + version + '\n\nType !help to view my commands');
 	//bot.channels.get('248652958227628032').sendMessage(updateMsg + version + '\n\nType !help to view my commands');
 
