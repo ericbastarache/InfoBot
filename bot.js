@@ -13,12 +13,6 @@ app.get('/', function(request, response) {
     console.log('App is running, server is listening on port ', app.get('port'));
 });
 
-//Ping the app every 5 minutes to prevent sleeping
-var http = require('http');
-setInterval(function () {
-	http.get("http://saajanbot.herokuapp.com");
-}, 300000);
-
 
 //Get bot version
 var v = require('./version.json');
@@ -38,7 +32,7 @@ try {
 	process.exit();
 }
 
-console.log("Starting SaajanBot\nNode version: " + process.version + "\nDiscord.js version: " + Discord.version);
+console.log("Starting InfoBot\nNode version: " + process.version + "\nDiscord.js version: " + Discord.version);
 
 //Cleverbot plugin loading
 try {
@@ -338,13 +332,6 @@ var commands = {
 			Clever.talk(suffix, message.channel, bot);
 		}
 	},
-	"jason" : {
-		usage: "",
-		description: "Tell Jason to fuck off",
-		process: function (bot, message, suffix) {
-			message.channel.sendMessage("Fuck off Jason");
-		}
-	},
 	"8ball" : {
 		usage: "<question>",
 		description: "Ask the 8ball a question",
@@ -574,9 +561,11 @@ bot.on('ready', function () {
 
 
 		var result = data.updateMessage;
-		result = "{}";
+		result = '{ "version" : "0.1.8", "updateMessage" : "I have arrived! Version: "}';
+		var newRes = JSON.stringify(result);
+		var res = JSON.parse(newRes);
 
-		fs.writeFile('./version.json', result, 'utf8', function (err) {
+		fs.writeFile('./version.json', res, 'utf8', function (err) {
 			if(err) {
 				return console.log(err);
 			}
