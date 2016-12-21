@@ -7,7 +7,7 @@ Join the Discord server at https://discord.gg/b9qhmtk
 
 ## Commands List
 
-1. !commands - Sends you a PM with all the commands the bot currently has available
+1. !help - Sends you a PM with all the commands the bot currently has available
 2. !gif [query] - Returns a gif matching the query parameter (i.e Typing Charmander returns a gif of Charmander)
 3. !youtube [query] - Returns a random youtube matching the query parameter (i.e Three Days Grace returns a random Three Days Grace video)
 4. !urban [query] - Returns a random urban dictionary definition matching the query parameter
