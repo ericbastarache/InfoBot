@@ -3,7 +3,9 @@ Discord bot written with Node.js
 
 ## See it in action
 
-Join the Discord server at https://discord.gg/b9qhmtk 
+Join the Discord server at https://discord.gg/b9qhmtk
+
+If the Bot is not online when you show up, feel free to add Eric#5434 on Discord and shoot me a PM so I can turn the bot on.
 
 ## Commands List
 
