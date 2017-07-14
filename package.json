@@ -2,7 +2,7 @@
   "name": "InfoBot",
   "version": "0.1.5",
   "description": "Bot for Discord Server",
-  "author": "",
+  "author": "Eric Bastarache",
   "main": "bot.js",
   "dependencies": {
     "cleverbot.io": "^1.0.4",
@@ -22,6 +22,6 @@
     "start": "node bot.js"
   },
   "engines": {
-    "node": "6.8.0"
+    "node": "6.11.1"
   }
 }
